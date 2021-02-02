@@ -1,0 +1,21 @@
+{
+    "name": "phpwdk/douyin-sdk",
+    "description": "抖音开放平台SDK",
+    "authors": [
+        {
+            "name": "汪登科",
+            "email": "support@402260.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "classmap": [
+            "Dy.php"
+        ],
+        "psr-4": {
+            "ByteDance\\": "ByteDance/"
+        }
+    }
+}
