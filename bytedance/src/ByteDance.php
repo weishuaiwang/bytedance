@@ -14,7 +14,7 @@ use ByteDance\Kernel\DataArray;
  * @method \ByteDance\Toutiao Toutiao($options = []) static 头条操作
  * @method \ByteDance\Othe Othe($options = []) static 其它操作
  */
-class Dy
+class ByteDance
 {
 
     /**
